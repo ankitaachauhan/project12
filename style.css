@@ -13,7 +13,7 @@ div input
 }
 body
 {
-    background-color:pink;
+    background:linear-gradient(115deg,hotpink 10%,rgb(0, 128, 119) 90%);
     display: flex;
     flex-wrap: wrap;
 }
